@@ -10,23 +10,23 @@
     <TextView
         android:layout_width="100dp"
         android:layout_height="wrap_content"
-        android:background="#FFEB3B"
+        android:background="#808000"
         android:text="Anak 1"
         android:textSize="30sp"/>
 
     <TextView
         android:layout_width="100dp"
         android:layout_height="wrap_content"
-        android:background="#3F51B5"
+        android:background="##FFFF00"
         android:text="Anak 2"
         android:textSize="30sp"/>
 
     <TextView
-        android:layout_width="100dp"
+        android:layout_width="75dp"
         android:layout_height="wrap_content"
         android:background="#4CAF50"
         android:text="Anak 3"
-        android:textSize="30sp"/>
+        android:textSize="30sp" />
 
 
     <LinearLayout
